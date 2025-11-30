@@ -1,0 +1,4 @@
+# Large model files - do not track in git
+output/
+t5-query-rewriter-final/
+*.safetensors
