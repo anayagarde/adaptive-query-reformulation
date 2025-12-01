@@ -112,6 +112,11 @@ Threshold : 0.36
 
 ---
 
+## Project Flow
+<img width="1786" height="824" alt="image" src="https://github.com/user-attachments/assets/f10c8f61-ffc0-4445-b342-6bff3fdeeb34" />
+
+---
+
 ## 📝 Notes
 
 - The model `.safetensors` file is large — do NOT commit `output/` to GitHub.
