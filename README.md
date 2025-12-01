@@ -1,4 +1,4 @@
-# Strong vs Weak Query Classifier
+# Adaptive Query Reformulation AQR
 
 This project trains a DistilRoBERTa-based classifier to label user queries as STRONG (well-formed) or WEAK (ill-formed).
 It also includes a separate inference script so you can classify any query from the command line.
