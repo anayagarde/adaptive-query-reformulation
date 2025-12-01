@@ -4,8 +4,13 @@ This project trains a DistilRoBERTa-based classifier to label user queries as ST
 It also includes a separate inference script so you can classify any query from the command line.
 
 ---
+## 💻 Demo
 
-## 📊 Dataset (Required)
+https://github.com/user-attachments/assets/dd8147f7-5a8b-4f4b-abc7-a0cdbffb4151
+
+---
+
+## 📊 Dataset
 
 This project uses the Google Query Wellformedness (QWF) dataset:
 
